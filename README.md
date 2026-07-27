@@ -90,7 +90,7 @@ The following figures present selected visualizations from the exploratory analy
 ## Repository Structure
 
 ```text
-fraud-detection-machine-learning/
+fraud-detection-python/
 │
 ├── data/
 ├── results/
