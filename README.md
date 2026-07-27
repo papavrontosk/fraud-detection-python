@@ -93,8 +93,6 @@ The following figures present selected visualizations from the exploratory analy
 fraud-detection-machine-learning/
 │
 ├── data/
-├── notebooks/
-├── src/
 ├── results/
 ├── report/
 └── README.md
@@ -105,8 +103,6 @@ fraud-detection-machine-learning/
 | Folder | Description |
 |----------|-------------|
 | data | Dataset used in the analysis |
-| notebooks | Jupyter notebooks |
-| src | Python source code |
 | results | Figures and model outputs |
 | report | Final project report |
 
